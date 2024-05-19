@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: black;
+    background: linear-gradient(45deg, rgb(59, 59, 255), rgb(192, 39, 141));
 }
 
 .board{
